@@ -1,0 +1,7 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/miPrograma1/Properties/AssemblyInfo.cs
+/.idea/
